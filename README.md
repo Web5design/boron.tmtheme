@@ -5,10 +5,15 @@
 
 
 Juicy, dark color scheme for accelerated coding & reduced eye-fatigue :::::
+
 Quantum leap in workflow via optimal design & color-coordination :::::
+
 Dynamic syntax highlighting & distinct language differentiation :::: 
+
 Fully user tested on all-nighters, better legibility over time ::::: 
+
 Inspired by the classic Soda, Boron, & Dogs color schemes :::::
+
 Named after the magic Higgs Boson :::::
 
 ![Screenshot](http://Web5design.com/web5design-sublime-boson-theme.jpg)
