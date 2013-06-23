@@ -1,20 +1,22 @@
-# Boson
+# Boson :+:
 
 ## Custom UI theme for Sublime Text 2 and Sublime Text 3.
 ### Accelerated coding & reduced eye-fatigue. 
 
+:+:
 
-Juicy, dark color scheme for accelerated coding & reduced eye-fatigue :::::
+Juicy, dark color scheme for accelerated coding & reduced eye-fatigue.
+Optimal color synthesis, dynamic syntax highlights & distinct language differentiation for
+Improving code legibility & workflow during long work hours or all-night code sessions.
 
-Quantum leap in workflow via optimal design & color-coordination :::::
+:+:
 
-Dynamic syntax highlighting & distinct language differentiation :::: 
+Fully user tested & hacker approved :+: Inspired by the classic Soda, Boron, & Dogs color schemes :+: Named after the magic Higgs Boson
 
-Fully user tested on all-nighters, better legibility over time ::::: 
+"Boson puts my code in a new light, & I can still see at night. It's a true quantum leap in my workflow - simply sublime!"
+--JT, Sr. Developer from NYC
 
-Inspired by the classic Soda, Boron, & Dogs color schemes :::::
-
-Named after the magic Higgs Boson :::::
+:+:
 
 ![Screenshot](http://Web5design.com/web5design-sublime-boson-theme.jpg)
 
