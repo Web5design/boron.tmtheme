@@ -5,7 +5,7 @@
   <key>author</key>
 	<string>James A. Tunick, Web5design LLC</string>
 	<key>name</key>
-	<string>Dogs</string>
+	<string>Boson</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -524,6 +524,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>766026CB-703D-4610-B070-8DE07D967C60</string>
+	<string>c917aa9a-7b7f-49f6-96e9-ea8248a9bbcd</string>
 </dict>
 </plist>
