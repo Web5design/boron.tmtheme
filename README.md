@@ -3,7 +3,7 @@
 ### Sublime Text Color Scheme
 
 Juicy, dark color scheme for accelerated coding & reduced eye-fatigue :::::
-Inspired by the brilliant Boron & Dogs color schemes for Sublime :::::
+Inspired by the brilliant Boron & Dogs color schemes :::::
 Named after The Higgs Boson :::::
 
 ![Screenshot](http://Web5design.com/web5design-sublime-boson-theme.jpg)
