@@ -13,7 +13,7 @@ Improving code legibility & workflow during long work hours or all-night code se
 
 User tested; hacker approved. Inspired by the classic Soda, Boron & Dogs schemes. Named after the magic Higgs Particle.
 
-"Boson puts my code in a new light, & I can still see at night. It's a true quantum leap in my workflow - simply sublime!"
+"Boson puts my code in a new light & I can still see at night. Truly a quantum leap, it's simply sublime!"
 --JT, Sr. Developer from NYC
 
 :+:
