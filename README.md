@@ -1,7 +1,7 @@
 # Boson :+:
 
 ## Custom UI theme for Sublime Text 2 and Sublime Text 3.
-### Accelerated coding & reduced eye-fatigue. 
+### Accelerated coding. Reduced eye-fatigue. All night long.
 
 :+:
 
